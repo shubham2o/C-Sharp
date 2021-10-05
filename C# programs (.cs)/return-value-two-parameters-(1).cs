@@ -8,7 +8,7 @@ namespace C_Sharp
         //(recommended, as it is easier to read and maintain):
         static int MyResult(int x, int y)
         {
-            return x = y;
+            return x + y;
         }
 
         static void Main(string[] args)
@@ -18,3 +18,9 @@ namespace C_Sharp
         }
     }
 }
+
+
+
+
+
+// OUTPUT - 15
