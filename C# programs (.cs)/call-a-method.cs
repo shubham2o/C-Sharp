@@ -8,7 +8,6 @@ namespace C_Sharp
         {
             Console.WriteLine("Hello! My name is Shubham Sharma");
         }
-
         static void Main(string[] args)
         {
             MyMethod();
