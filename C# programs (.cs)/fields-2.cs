@@ -30,3 +30,15 @@ namespace C_Sharp
         }
     }
 }
+
+
+
+
+
+// OUTPUT
+//  ModelS
+//  BlackGrey
+//  2021
+//  i8
+//  Black
+//  2020
