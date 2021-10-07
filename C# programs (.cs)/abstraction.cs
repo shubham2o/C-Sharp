@@ -30,7 +30,7 @@ namespace C_Sharp
     {
         static void Main(string[] args)
         {
-            Pig myPig = new Pig();
+            Pig myPig = new Pig();    // Create a Pig object
             myPig.animalSound();
             myPig.sleep();
         }
