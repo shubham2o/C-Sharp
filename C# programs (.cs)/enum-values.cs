@@ -17,7 +17,7 @@ namespace C_Sharp
 
         static void Main(string[] args)
         {
-            int myNum=(int) Months.April;   // To get the integer value from an item, you must explicitly convert the item to an int:
+            int myNum=(int) Months.April;   // To get the integer value from an item, you must explicitly convert the item to an int:W
             Console.WriteLine(myNum);
         }
     }
